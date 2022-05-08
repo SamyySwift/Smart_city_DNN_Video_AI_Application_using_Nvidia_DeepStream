@@ -28,3 +28,7 @@ The deepstream pipeline architecture of the application is shown in the image be
 ### 📔 **Note:**
   * DeepStream runs on NVIDIA® T4, NVIDIA® Ampere and platforms such as NVIDIA® Jetson™ Nano, NVIDIA® Jetson AGX Xavier™, NVIDIA® Jetson Xavier NX™, NVIDIA® Jetson™ TX1 and TX2., so in other to run the code, use any of these platforms or Nvidia's cloud platform!
 
+---
+
+### :dart: **Video link**:
+https://youtu.be/xa2N-yLHFcw
